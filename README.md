@@ -19,7 +19,7 @@ This is a simple weather application built with React. It displays the current w
 
 To get a local copy up and running, follow these steps:
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/mandanaD/Weather-App.git`
 2. Navigate to the project directory: `cd weather-app`
 3. Install the dependencies: `npm install` or `npm i`
 4. Start the development server: `npm start`
